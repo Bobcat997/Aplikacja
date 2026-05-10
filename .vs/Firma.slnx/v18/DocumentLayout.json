@@ -3,6 +3,77 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4A10955E-2BB5-7524-315E-D055B1E43879}|Firma.Intranet\\Firma.Intranet.csproj|c:\\users\\admin\\desktop\\wazne rzeczy\\projekt_aplikacje_biznesowe\\firma\\firma.intranet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A10955E-2BB5-7524-315E-D055B1E43879}|Firma.Intranet\\Firma.Intranet.csproj|solutionrelative:firma.intranet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A10955E-2BB5-7524-315E-D055B1E43879}|Firma.Intranet\\Firma.Intranet.csproj|c:\\users\\admin\\desktop\\wazne rzeczy\\projekt_aplikacje_biznesowe\\firma\\firma.intranet\\firma.intranet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A10955E-2BB5-7524-315E-D055B1E43879}|Firma.Intranet\\Firma.Intranet.csproj|solutionrelative:firma.intranet\\firma.intranet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A10955E-2BB5-7524-315E-D055B1E43879}|Firma.Intranet\\Firma.Intranet.csproj|c:\\users\\admin\\desktop\\wazne rzeczy\\projekt_aplikacje_biznesowe\\firma\\firma.intranet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A10955E-2BB5-7524-315E-D055B1E43879}|Firma.Intranet\\Firma.Intranet.csproj|solutionrelative:firma.intranet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D7808C-13F4-43C2-A5BB-A2845352F049}|Firma.Data\\Firma.Data.csproj|c:\\users\\admin\\desktop\\wazne rzeczy\\projekt_aplikacje_biznesowe\\firma\\firma.data\\enums\\urloptyp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D7808C-13F4-43C2-A5BB-A2845352F049}|Firma.Data\\Firma.Data.csproj|solutionrelative:firma.data\\enums\\urloptyp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D7808C-13F4-43C2-A5BB-A2845352F049}|Firma.Data\\Firma.Data.csproj|c:\\users\\admin\\desktop\\wazne rzeczy\\projekt_aplikacje_biznesowe\\firma\\firma.data\\enums\\sprzetstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D7808C-13F4-43C2-A5BB-A2845352F049}|Firma.Data\\Firma.Data.csproj|solutionrelative:firma.data\\enums\\sprzetstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D7808C-13F4-43C2-A5BB-A2845352F049}|Firma.Data\\Firma.Data.csproj|c:\\users\\admin\\desktop\\wazne rzeczy\\projekt_aplikacje_biznesowe\\firma\\firma.data\\enums\\zadaniestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D7808C-13F4-43C2-A5BB-A2845352F049}|Firma.Data\\Firma.Data.csproj|solutionrelative:firma.data\\enums\\zadaniestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D7808C-13F4-43C2-A5BB-A2845352F049}|Firma.Data\\Firma.Data.csproj|c:\\users\\admin\\desktop\\wazne rzeczy\\projekt_aplikacje_biznesowe\\firma\\firma.data\\enums\\projektstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D7808C-13F4-43C2-A5BB-A2845352F049}|Firma.Data\\Firma.Data.csproj|solutionrelative:firma.data\\enums\\projektstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D7808C-13F4-43C2-A5BB-A2845352F049}|Firma.Data\\Firma.Data.csproj|c:\\users\\admin\\desktop\\wazne rzeczy\\projekt_aplikacje_biznesowe\\firma\\firma.data\\entities\\urlop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D7808C-13F4-43C2-A5BB-A2845352F049}|Firma.Data\\Firma.Data.csproj|solutionrelative:firma.data\\entities\\urlop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D7808C-13F4-43C2-A5BB-A2845352F049}|Firma.Data\\Firma.Data.csproj|c:\\users\\admin\\desktop\\wazne rzeczy\\projekt_aplikacje_biznesowe\\firma\\firma.data\\entities\\sprzet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D7808C-13F4-43C2-A5BB-A2845352F049}|Firma.Data\\Firma.Data.csproj|solutionrelative:firma.data\\entities\\sprzet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D7808C-13F4-43C2-A5BB-A2845352F049}|Firma.Data\\Firma.Data.csproj|c:\\users\\admin\\desktop\\wazne rzeczy\\projekt_aplikacje_biznesowe\\firma\\firma.data\\entities\\zadanie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D7808C-13F4-43C2-A5BB-A2845352F049}|Firma.Data\\Firma.Data.csproj|solutionrelative:firma.data\\entities\\zadanie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D7808C-13F4-43C2-A5BB-A2845352F049}|Firma.Data\\Firma.Data.csproj|c:\\users\\admin\\desktop\\wazne rzeczy\\projekt_aplikacje_biznesowe\\firma\\firma.data\\entities\\projekt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D7808C-13F4-43C2-A5BB-A2845352F049}|Firma.Data\\Firma.Data.csproj|solutionrelative:firma.data\\entities\\projekt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D7808C-13F4-43C2-A5BB-A2845352F049}|Firma.Data\\Firma.Data.csproj|c:\\users\\admin\\desktop\\wazne rzeczy\\projekt_aplikacje_biznesowe\\firma\\firma.data\\entities\\klient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D7808C-13F4-43C2-A5BB-A2845352F049}|Firma.Data\\Firma.Data.csproj|solutionrelative:firma.data\\entities\\klient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D7808C-13F4-43C2-A5BB-A2845352F049}|Firma.Data\\Firma.Data.csproj|c:\\users\\admin\\desktop\\wazne rzeczy\\projekt_aplikacje_biznesowe\\firma\\firma.data\\entities\\stanowisko.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D7808C-13F4-43C2-A5BB-A2845352F049}|Firma.Data\\Firma.Data.csproj|solutionrelative:firma.data\\entities\\stanowisko.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D7808C-13F4-43C2-A5BB-A2845352F049}|Firma.Data\\Firma.Data.csproj|c:\\users\\admin\\desktop\\wazne rzeczy\\projekt_aplikacje_biznesowe\\firma\\firma.data\\entities\\dzial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D7808C-13F4-43C2-A5BB-A2845352F049}|Firma.Data\\Firma.Data.csproj|solutionrelative:firma.data\\entities\\dzial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D7808C-13F4-43C2-A5BB-A2845352F049}|Firma.Data\\Firma.Data.csproj|c:\\users\\admin\\desktop\\wazne rzeczy\\projekt_aplikacje_biznesowe\\firma\\firma.data\\firmadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D7808C-13F4-43C2-A5BB-A2845352F049}|Firma.Data\\Firma.Data.csproj|solutionrelative:firma.data\\firmadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D7808C-13F4-43C2-A5BB-A2845352F049}|Firma.Data\\Firma.Data.csproj|c:\\users\\admin\\desktop\\wazne rzeczy\\projekt_aplikacje_biznesowe\\firma\\firma.data\\entities\\pracownik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1D7808C-13F4-43C2-A5BB-A2845352F049}|Firma.Data\\Firma.Data.csproj|solutionrelative:firma.data\\entities\\pracownik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1D7808C-13F4-43C2-A5BB-A2845352F049}|Firma.Data\\Firma.Data.csproj|c:\\users\\admin\\desktop\\wazne rzeczy\\projekt_aplikacje_biznesowe\\firma\\firma.data\\firma.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1D7808C-13F4-43C2-A5BB-A2845352F049}|Firma.Data\\Firma.Data.csproj|solutionrelative:firma.data\\firma.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\nuget.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{27D9D148-44B3-1FDA-31C2-1F8152583B1F}|Firma.PortalWWW\\Firma.PortalWWW.csproj|c:\\users\\admin\\desktop\\wazne rzeczy\\projekt_aplikacje_biznesowe\\firma\\firma.portalwww\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{27D9D148-44B3-1FDA-31C2-1F8152583B1F}|Firma.PortalWWW\\Firma.PortalWWW.csproj|solutionrelative:firma.portalwww\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -14,11 +85,249 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Firma.Intranet",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.Intranet\\Firma.Intranet.csproj",
+              "RelativeDocumentMoniker": "Firma.Intranet\\Firma.Intranet.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.Intranet\\Firma.Intranet.csproj",
+              "RelativeToolTip": "Firma.Intranet\\Firma.Intranet.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-10T06:42:11.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.Intranet\\appsettings.json",
+              "RelativeDocumentMoniker": "Firma.Intranet\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.Intranet\\appsettings.json",
+              "RelativeToolTip": "Firma.Intranet\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-10T06:39:03.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.Intranet\\Program.cs",
+              "RelativeDocumentMoniker": "Firma.Intranet\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.Intranet\\Program.cs",
+              "RelativeToolTip": "Firma.Intranet\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T06:38:53.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UrlopTyp.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.Data\\Enums\\UrlopTyp.cs",
+              "RelativeDocumentMoniker": "Firma.Data\\Enums\\UrlopTyp.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.Data\\Enums\\UrlopTyp.cs",
+              "RelativeToolTip": "Firma.Data\\Enums\\UrlopTyp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T06:37:57.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SprzetStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.Data\\Enums\\SprzetStatus.cs",
+              "RelativeDocumentMoniker": "Firma.Data\\Enums\\SprzetStatus.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.Data\\Enums\\SprzetStatus.cs",
+              "RelativeToolTip": "Firma.Data\\Enums\\SprzetStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T06:37:44.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ZadanieStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.Data\\Enums\\ZadanieStatus.cs",
+              "RelativeDocumentMoniker": "Firma.Data\\Enums\\ZadanieStatus.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.Data\\Enums\\ZadanieStatus.cs",
+              "RelativeToolTip": "Firma.Data\\Enums\\ZadanieStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T06:37:31.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjektStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.Data\\Enums\\ProjektStatus.cs",
+              "RelativeDocumentMoniker": "Firma.Data\\Enums\\ProjektStatus.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.Data\\Enums\\ProjektStatus.cs",
+              "RelativeToolTip": "Firma.Data\\Enums\\ProjektStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T06:37:18.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Urlop.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.Data\\Entities\\Urlop.cs",
+              "RelativeDocumentMoniker": "Firma.Data\\Entities\\Urlop.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.Data\\Entities\\Urlop.cs",
+              "RelativeToolTip": "Firma.Data\\Entities\\Urlop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T06:36:17.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sprzet.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.Data\\Entities\\Sprzet.cs",
+              "RelativeDocumentMoniker": "Firma.Data\\Entities\\Sprzet.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.Data\\Entities\\Sprzet.cs",
+              "RelativeToolTip": "Firma.Data\\Entities\\Sprzet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T06:36:04.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Zadanie.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.Data\\Entities\\Zadanie.cs",
+              "RelativeDocumentMoniker": "Firma.Data\\Entities\\Zadanie.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.Data\\Entities\\Zadanie.cs",
+              "RelativeToolTip": "Firma.Data\\Entities\\Zadanie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T06:35:48.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Projekt.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.Data\\Entities\\Projekt.cs",
+              "RelativeDocumentMoniker": "Firma.Data\\Entities\\Projekt.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.Data\\Entities\\Projekt.cs",
+              "RelativeToolTip": "Firma.Data\\Entities\\Projekt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T06:35:34.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Klient.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.Data\\Entities\\Klient.cs",
+              "RelativeDocumentMoniker": "Firma.Data\\Entities\\Klient.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.Data\\Entities\\Klient.cs",
+              "RelativeToolTip": "Firma.Data\\Entities\\Klient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T06:35:17.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Stanowisko.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.Data\\Entities\\Stanowisko.cs",
+              "RelativeDocumentMoniker": "Firma.Data\\Entities\\Stanowisko.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.Data\\Entities\\Stanowisko.cs",
+              "RelativeToolTip": "Firma.Data\\Entities\\Stanowisko.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T06:34:51.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dzial.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.Data\\Entities\\Dzial.cs",
+              "RelativeDocumentMoniker": "Firma.Data\\Entities\\Dzial.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.Data\\Entities\\Dzial.cs",
+              "RelativeToolTip": "Firma.Data\\Entities\\Dzial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T06:34:25.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Pracownik.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.Data\\Entities\\Pracownik.cs",
+              "RelativeDocumentMoniker": "Firma.Data\\Entities\\Pracownik.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.Data\\Entities\\Pracownik.cs",
+              "RelativeToolTip": "Firma.Data\\Entities\\Pracownik.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T06:33:52.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Firma.Data",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.Data\\Firma.Data.csproj",
+              "RelativeDocumentMoniker": "Firma.Data\\Firma.Data.csproj",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.Data\\Firma.Data.csproj",
+              "RelativeToolTip": "Firma.Data\\Firma.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-10T06:27:09.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FirmaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.Data\\FirmaDbContext.cs",
+              "RelativeDocumentMoniker": "Firma.Data\\FirmaDbContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.Data\\FirmaDbContext.cs",
+              "RelativeToolTip": "Firma.Data\\FirmaDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T06:32:49.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "nuget.config",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\nuget.config",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Roaming\\NuGet\\nuget.config",
+              "ToolTip": "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\nuget.config",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Roaming\\NuGet\\nuget.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-10T06:28:10.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.PortalWWW\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Firma.PortalWWW\\Views\\Shared\\_Layout.cshtml",

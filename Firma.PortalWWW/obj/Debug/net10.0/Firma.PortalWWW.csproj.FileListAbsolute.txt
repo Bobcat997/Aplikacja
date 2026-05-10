@@ -188,9 +188,9 @@ C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Port
 C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\staticwebassets.development.json
 C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\swae.build.ex.cache
-C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\Firma.PortalWWW.dll
 C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\refint\Firma.PortalWWW.dll
 C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\Firma.PortalWWW.pdb
 C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\Firma.PortalWWW.genruntimeconfig.cache
 C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\ref\Firma.PortalWWW.dll
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\Firma.PortalWWW.sourcelink.json

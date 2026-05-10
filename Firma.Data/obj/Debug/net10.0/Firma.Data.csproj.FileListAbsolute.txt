@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Data\bin\Debug\net10.0\Firma.Data.deps.json
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Data\bin\Debug\net10.0\Firma.Data.runtimeconfig.json
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Data\bin\Debug\net10.0\Firma.Data.dll
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Data\bin\Debug\net10.0\Firma.Data.pdb
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Data\obj\Debug\net10.0\Firma.Data.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Data\obj\Debug\net10.0\Firma.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Data\obj\Debug\net10.0\Firma.Data.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Data\obj\Debug\net10.0\Firma.Data.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Data\obj\Debug\net10.0\Firma.Data.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Data\obj\Debug\net10.0\Firma.Data.sourcelink.json
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Data\obj\Debug\net10.0\Firma.Data.dll
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Data\obj\Debug\net10.0\refint\Firma.Data.dll
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Data\obj\Debug\net10.0\Firma.Data.pdb
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Data\obj\Debug\net10.0\Firma.Data.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Data\obj\Debug\net10.0\ref\Firma.Data.dll
