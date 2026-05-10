@@ -1,0 +1,196 @@
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\bin\Debug\net10.0\appsettings.Development.json
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\bin\Debug\net10.0\appsettings.json
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\bin\Debug\net10.0\Firma.Intranet.staticwebassets.runtime.json
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\bin\Debug\net10.0\Firma.Intranet.staticwebassets.endpoints.json
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\bin\Debug\net10.0\Firma.Intranet.exe
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\bin\Debug\net10.0\Firma.Intranet.deps.json
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\bin\Debug\net10.0\Firma.Intranet.runtimeconfig.json
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\bin\Debug\net10.0\Firma.Intranet.dll
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\bin\Debug\net10.0\Firma.Intranet.pdb
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\Firma.Intranet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\Firma.Intranet.AssemblyInfoInputs.cache
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\Firma.Intranet.AssemblyInfo.cs
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\Firma.Intranet.csproj.CoreCompileInputs.cache
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\Firma.Intranet.MvcApplicationPartsAssemblyInfo.cache
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\Firma.Intranet.RazorAssemblyInfo.cache
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\Firma.Intranet.RazorAssemblyInfo.cs
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\scopedcss\bundle\Firma.Intranet.styles.css
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\scopedcss\projectbundle\Firma.Intranet.bundle.scp.css
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\181vimjeaa-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\ld1sixjt5k-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\ejqod0rgs8-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\5b52yfgklk-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\jqlewtk8bo-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\2ttdgmu76v-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\1mg2wzmmpv-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\gp2ro2feel-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\9e227ibqpa-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\o9y7g2q2mg-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\z624ntkl9g-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\q5uik38in3-{0}-ub07r2b239-ub07r2b239.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\5o5d7o0zk6-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\l7tpalahjh-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\m2qzoj54ze-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\4o226j1yxy-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\ecsrcrvbvk-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\sqiqprzlj1-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\n1j0zyn6pz-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\wu4fy26nrz-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\wiyu8s3ati-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\byfqjgidqq-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\nu2zh8qj8g-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\m7ab8ehc6u-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\e9h5ekn0t8-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\666fbv457i-{0}-06098lyss8-06098lyss8.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\7emmnt43pb-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\b7tu385slg-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\4muviedn3t-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\jpq9k5q8mn-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\nk3ldy5h58-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\3rf2ytovhq-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\lui76cww98-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\6kt6lpzzj6-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\rll8jjas3n-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\3jf56c0aub-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\05ioff8eoi-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\4nfyu7ptdh-{0}-493y06b0oq-493y06b0oq.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\82h9tta2tl-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\jaiz9kaue3-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\g2jhh6j4qi-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\eerr7h20py-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\2z9esr8ag6-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\ct9xmol2m3-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\xovl8ijmth-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\dstspindx3-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\elq2zi5tiq-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\5na7k412ja-{0}-47otxtyo56-47otxtyo56.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\0s3k0nreh2-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\j51x0y7yzi-{0}-356vix0kms-356vix0kms.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\vt17322czy-{0}-83jwlth58m-83jwlth58m.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\wr1wf9yv5z-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\bpommnna6b-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\v6qyrufxfq-{0}-ag7o75518u-ag7o75518u.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\2dzpildjxf-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\fmaoqryxhw-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\apn5npwemx-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\l3i79gk8nl-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\qxdzyfob3s-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\mi2wx1zidd-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\1ci16hdn5m-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\5faju5qd67-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\zc5dfs305v-{0}-j1e7l7nwig-j1e7l7nwig.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\c15m3hnvc0-{0}-j1e7l7nwig-j1e7l7nwig.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\staticwebassets.build.json
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\staticwebassets.development.json
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\swae.build.ex.cache
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\Firma.Intranet.dll
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\refint\Firma.Intranet.dll
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\Firma.Intranet.pdb
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\Firma.Intranet.genruntimeconfig.cache
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\ref\Firma.Intranet.dll
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\bin\Debug\net10.0\appsettings.json
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\bin\Debug\net10.0\Firma.Intranet.staticwebassets.endpoints.json
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\bin\Debug\net10.0\Firma.Intranet.staticwebassets.runtime.json
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\bin\Debug\net10.0\Firma.Intranet.exe
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\bin\Debug\net10.0\Firma.Intranet.deps.json
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\bin\Debug\net10.0\Firma.Intranet.runtimeconfig.json
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\bin\Debug\net10.0\Firma.Intranet.dll
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\bin\Debug\net10.0\Firma.Intranet.pdb
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\Firma.Intranet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\Firma.Intranet.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\Firma.Intranet.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\Firma.Intranet.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\Firma.Intranet.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\Firma.Intranet.RazorAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\Firma.Intranet.RazorAssemblyInfo.cs
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\scopedcss\bundle\Firma.Intranet.styles.css
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\scopedcss\projectbundle\Firma.Intranet.bundle.scp.css
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\181vimjeaa-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\ld1sixjt5k-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\ejqod0rgs8-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\5b52yfgklk-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\jqlewtk8bo-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\2ttdgmu76v-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\1mg2wzmmpv-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\gp2ro2feel-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\9e227ibqpa-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\o9y7g2q2mg-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\z624ntkl9g-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\q5uik38in3-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\5o5d7o0zk6-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\l7tpalahjh-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\m2qzoj54ze-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\4o226j1yxy-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\ecsrcrvbvk-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\sqiqprzlj1-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\n1j0zyn6pz-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\wu4fy26nrz-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\wiyu8s3ati-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\byfqjgidqq-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\nu2zh8qj8g-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\m7ab8ehc6u-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\e9h5ekn0t8-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\666fbv457i-{0}-06098lyss8-06098lyss8.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\7emmnt43pb-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\b7tu385slg-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\4muviedn3t-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\jpq9k5q8mn-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\nk3ldy5h58-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\3rf2ytovhq-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\lui76cww98-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\6kt6lpzzj6-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\rll8jjas3n-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\3jf56c0aub-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\05ioff8eoi-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\4nfyu7ptdh-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\82h9tta2tl-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\jaiz9kaue3-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\g2jhh6j4qi-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\eerr7h20py-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\2z9esr8ag6-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\ct9xmol2m3-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\xovl8ijmth-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\dstspindx3-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\elq2zi5tiq-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\5na7k412ja-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\0s3k0nreh2-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\j51x0y7yzi-{0}-356vix0kms-356vix0kms.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\vt17322czy-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\wr1wf9yv5z-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\bpommnna6b-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\v6qyrufxfq-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\2dzpildjxf-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\fmaoqryxhw-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\apn5npwemx-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\l3i79gk8nl-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\qxdzyfob3s-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\mi2wx1zidd-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\1ci16hdn5m-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\5faju5qd67-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\zc5dfs305v-{0}-j1e7l7nwig-j1e7l7nwig.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\compressed\c15m3hnvc0-{0}-j1e7l7nwig-j1e7l7nwig.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\Firma.Intranet.dll
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\refint\Firma.Intranet.dll
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\Firma.Intranet.pdb
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\Firma.Intranet.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.Intranet\obj\Debug\net10.0\ref\Firma.Intranet.dll

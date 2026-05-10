@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27D9D148-44B3-1FDA-31C2-1F8152583B1F}|Firma.PortalWWW\\Firma.PortalWWW.csproj|c:\\users\\admin\\desktop\\wazne rzeczy\\projekt_aplikacje_biznesowe\\firma\\firma.portalwww\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27D9D148-44B3-1FDA-31C2-1F8152583B1F}|Firma.PortalWWW\\Firma.PortalWWW.csproj|solutionrelative:firma.portalwww\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.PortalWWW\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Firma.PortalWWW\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\wazne rzeczy\\Projekt_aplikacje_biznesowe\\Firma\\Firma.PortalWWW\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Firma.PortalWWW\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAQwGEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-18T12:22:13.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

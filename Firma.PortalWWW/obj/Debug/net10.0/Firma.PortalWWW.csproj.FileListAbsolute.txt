@@ -1,0 +1,196 @@
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\bin\Debug\net10.0\appsettings.Development.json
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\bin\Debug\net10.0\appsettings.json
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\bin\Debug\net10.0\Firma.PortalWWW.staticwebassets.runtime.json
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\bin\Debug\net10.0\Firma.PortalWWW.staticwebassets.endpoints.json
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\bin\Debug\net10.0\Firma.PortalWWW.exe
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\bin\Debug\net10.0\Firma.PortalWWW.deps.json
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\bin\Debug\net10.0\Firma.PortalWWW.runtimeconfig.json
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\bin\Debug\net10.0\Firma.PortalWWW.dll
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\bin\Debug\net10.0\Firma.PortalWWW.pdb
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\Firma.PortalWWW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\Firma.PortalWWW.AssemblyInfoInputs.cache
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\Firma.PortalWWW.AssemblyInfo.cs
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\Firma.PortalWWW.csproj.CoreCompileInputs.cache
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\Firma.PortalWWW.MvcApplicationPartsAssemblyInfo.cache
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\Firma.PortalWWW.RazorAssemblyInfo.cache
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\Firma.PortalWWW.RazorAssemblyInfo.cs
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\scopedcss\bundle\Firma.PortalWWW.styles.css
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\scopedcss\projectbundle\Firma.PortalWWW.bundle.scp.css
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\sdaapswijl-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\l5eqfaupwz-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\3bnrnyofu7-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\lszxxufc65-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\mytpal2qo8-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\qgdcs125eg-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\ph8u4wozzx-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\wxytv9pwh3-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\l3c64nmkxu-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\z37wsuro1e-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\z21s44jy1b-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\kxdoq59ay1-{0}-ub07r2b239-ub07r2b239.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\378h5mi8zn-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\w1kj15sv53-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\ta3zb2jikl-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\fji51d7cfx-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\7cfkpj5v8f-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\62wpj6vp99-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\8f9lyk9a3k-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\zcg2v7xlsl-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\hxnvq59oc8-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\c6xzdcl0gx-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\5up511p55h-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\c9ospyqg7q-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\qts0x4kq86-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\55153cbngc-{0}-06098lyss8-06098lyss8.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\3n9mqaoyz1-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\dkljxtxfsd-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\3tealeqx0k-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\ftb6g5xpsm-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\60vpxqhkxf-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\y8xs75sxia-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\cyvkk15bc3-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\htb49sz75f-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\n0ravwz5aw-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\0mojzy1wb4-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\lpt8302kyb-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\7t3xb78j5g-{0}-493y06b0oq-493y06b0oq.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\j36ogabu3v-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\5ok4psitvy-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\pj7x112ai4-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\4gkx15c5e9-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\0j69yrt3wh-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\nh518p5uee-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\1hpito9zx8-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\yn86inp2cq-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\d8ao2f5ic8-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\718shi4nrn-{0}-47otxtyo56-47otxtyo56.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\ipebzu13sn-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\qzeiqmdlyr-{0}-356vix0kms-356vix0kms.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\zb6uqocwv2-{0}-83jwlth58m-83jwlth58m.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\r7bliob8d9-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\oyrl1fd5v9-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\caavcluzld-{0}-ag7o75518u-ag7o75518u.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\3i27psi0e1-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\7cntqaypam-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\9kbtbecfjf-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\poh1j9xbym-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\injeb8hnc1-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\onlodd4xld-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\oatzwggd8l-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\0z0kuyrvv1-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\uf8q0tp7sj-{0}-vrole63an7-vrole63an7.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\t8xrregicd-{0}-vrole63an7-vrole63an7.gz
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\staticwebassets.build.json
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\staticwebassets.development.json
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\swae.build.ex.cache
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\Firma.PortalWWW.dll
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\refint\Firma.PortalWWW.dll
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\Firma.PortalWWW.pdb
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\Firma.PortalWWW.genruntimeconfig.cache
+C:\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\ref\Firma.PortalWWW.dll
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\bin\Debug\net10.0\appsettings.json
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\bin\Debug\net10.0\Firma.PortalWWW.staticwebassets.endpoints.json
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\bin\Debug\net10.0\Firma.PortalWWW.staticwebassets.runtime.json
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\bin\Debug\net10.0\Firma.PortalWWW.exe
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\bin\Debug\net10.0\Firma.PortalWWW.deps.json
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\bin\Debug\net10.0\Firma.PortalWWW.runtimeconfig.json
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\bin\Debug\net10.0\Firma.PortalWWW.dll
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\bin\Debug\net10.0\Firma.PortalWWW.pdb
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\Firma.PortalWWW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\Firma.PortalWWW.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\Firma.PortalWWW.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\Firma.PortalWWW.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\Firma.PortalWWW.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\Firma.PortalWWW.RazorAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\Firma.PortalWWW.RazorAssemblyInfo.cs
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\scopedcss\bundle\Firma.PortalWWW.styles.css
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\scopedcss\projectbundle\Firma.PortalWWW.bundle.scp.css
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\sdaapswijl-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\l5eqfaupwz-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\3bnrnyofu7-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\lszxxufc65-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\mytpal2qo8-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\qgdcs125eg-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\ph8u4wozzx-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\wxytv9pwh3-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\l3c64nmkxu-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\z37wsuro1e-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\z21s44jy1b-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\kxdoq59ay1-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\378h5mi8zn-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\w1kj15sv53-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\ta3zb2jikl-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\fji51d7cfx-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\7cfkpj5v8f-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\62wpj6vp99-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\8f9lyk9a3k-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\zcg2v7xlsl-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\hxnvq59oc8-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\c6xzdcl0gx-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\5up511p55h-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\c9ospyqg7q-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\qts0x4kq86-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\55153cbngc-{0}-06098lyss8-06098lyss8.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\3n9mqaoyz1-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\dkljxtxfsd-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\3tealeqx0k-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\ftb6g5xpsm-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\60vpxqhkxf-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\y8xs75sxia-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\cyvkk15bc3-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\htb49sz75f-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\n0ravwz5aw-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\0mojzy1wb4-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\lpt8302kyb-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\7t3xb78j5g-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\j36ogabu3v-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\5ok4psitvy-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\pj7x112ai4-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\4gkx15c5e9-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\0j69yrt3wh-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\nh518p5uee-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\1hpito9zx8-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\yn86inp2cq-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\d8ao2f5ic8-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\718shi4nrn-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\ipebzu13sn-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\qzeiqmdlyr-{0}-356vix0kms-356vix0kms.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\zb6uqocwv2-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\r7bliob8d9-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\oyrl1fd5v9-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\caavcluzld-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\3i27psi0e1-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\7cntqaypam-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\9kbtbecfjf-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\poh1j9xbym-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\injeb8hnc1-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\onlodd4xld-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\oatzwggd8l-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\0z0kuyrvv1-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\uf8q0tp7sj-{0}-vrole63an7-vrole63an7.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\compressed\t8xrregicd-{0}-vrole63an7-vrole63an7.gz
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\Firma.PortalWWW.dll
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\refint\Firma.PortalWWW.dll
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\Firma.PortalWWW.pdb
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\Firma.PortalWWW.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\wazne rzeczy\Projekt_aplikacje_biznesowe\Firma\Firma.PortalWWW\obj\Debug\net10.0\ref\Firma.PortalWWW.dll
