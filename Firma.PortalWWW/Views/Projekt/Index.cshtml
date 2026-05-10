@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Firma.Data.Entities.Projekt>
+@{
+    ViewBag.Title = "Projekty";
+}
+
+<h2><i class="fas fa-folder"></i> Nasze Projekty</h2>
+
+<table class="table table-hover table-striped align-middle">
+    <thead class="table-dark">
+        <tr>
+            <th>Nazwa Projektu</th>
+            <th>Opis</th>
+            <th>Data rozpoczęcia</th>
+            <th>Data zakończenia</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td><strong>@item.Nazwa</strong></td>
+                <td>@item.Opis</td>
+                <td>@(item.GetType().GetProperty("DataStart")?.GetValue(item)?.ToString() ?? "-")</td>
+                <td>@(item.GetType().GetProperty("DataKoniec")?.GetValue(item)?.ToString() ?? "-")</td>
+                <td>
+                    <span class="badge bg-primary">@(item.GetType().GetProperty("CzyAktywny")?.GetValue(item) ?? "Brak info")</span>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

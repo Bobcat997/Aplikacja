@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Firma.Data.Entities.Zadanie>
+@{
+    ViewBag.Title = "Zadania";
+}
+
+<h2><i class="fas fa-tasks"></i> Zadania</h2>
+
+<table class="table table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>Nazwa Zadania</th>
+            <th>Projekt</th>
+            <th>Przypisany Pracownik</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td><strong>@item.Tytul</strong></td>
+                <td>@item.Projekt?.Nazwa</td>
+                <td>@item.Pracownik?.Imie @item.Pracownik?.Nazwisko</td>
+                <td>@item.Status</td>
+            </tr>
+        }
+    </tbody>
+</table>
+</table>

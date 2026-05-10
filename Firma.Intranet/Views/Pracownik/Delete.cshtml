@@ -1,0 +1,19 @@
+﻿@model Firma.Data.Entities.Pracownik
+@{
+    ViewBag.Title = "Usuń pracownika";
+}
+
+<h3>Czy na pewno chcesz usunąć tego pracownika?</h3>
+
+<dl class="row">
+    <dt class="col-sm-4">Imię i Nazwisko:</dt>
+    <dd class="col-sm-8">@Model.Imie @Model.Nazwisko</dd>
+    <dt class="col-sm-4">Email:</dt>
+    <dd class="col-sm-8">@Model.Email</dd>
+</dl>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Tak, usuń</button>
+    <a asp-action="Index" class="btn btn-secondary">Anuluj</a>
+</form>

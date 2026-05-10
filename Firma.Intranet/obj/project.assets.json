@@ -3065,7 +3065,8 @@
     "net10.0": [
       "Firma.Data >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 10.0.7",
-      "Microsoft.EntityFrameworkCore.Design >= 10.0.7"
+      "Microsoft.EntityFrameworkCore.Design >= 10.0.7",
+      "Microsoft.EntityFrameworkCore.SqlServer >= 10.0.7"
     ]
   },
   "packageFolders": {
@@ -3131,6 +3132,10 @@
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
+            "target": "Package",
+            "version": "[10.0.7, )"
+          },
+          "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
             "version": "[10.0.7, )"
           }

@@ -12,67 +12,45 @@
             :root {
                 --red: #e63939;
                 --dark: #0a0a0a;
-                --light: #f1f1f1;
             }
 
             body {
                 background-color: var(--dark);
                 color: #e0e0e0;
-                font-family: 'Segoe UI', sans-serif;
             }
 
             .navbar {
                 background: rgba(10,10,10,0.97) !important;
-                backdrop-filter: blur(12px);
                 border-bottom: 5px solid var(--red);
-                box-shadow: 0 5px 20px rgba(230, 57, 57, 0.3);
             }
 
-            .navbar-brand {
-                font-size: 1.85rem;
-                font-weight: 900;
-                letter-spacing: 3px;
+            .sidebar {
+                background-color: #111;
+                min-height: 100vh;
+                border-right: 4px solid var(--red);
+                padding-top: 100px;
             }
 
             .nav-link {
-                font-weight: 600;
-                margin: 0 8px;
-                transition: 0.3s;
+                color: #e0e0e0 !important;
+                padding: 14px 25px;
+                font-weight: 500;
             }
 
-                .nav-link:hover {
-                    color: var(--red) !important;
+                .nav-link:hover, .nav-link.active {
+                    background-color: var(--red);
+                    color: white !important;
                 }
 
-            .hero {
-                background: linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.85)), url('https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&q=80') center/cover;
-                height: 100vh;
-                display: flex;
-                align-items: center;
-            }
-
-            .btn-primary-custom {
-                background: linear-gradient(45deg, #e63939, #ff5252);
-                border: none;
-                padding: 14px 38px;
-                font-weight: 700;
-                border-radius: 50px;
-                box-shadow: 0 8px 25px rgba(230,57,57,0.4);
-                transition: 0.4s;
-            }
-
-                .btn-primary-custom:hover {
-                    transform: translateY(-6px);
-                    box-shadow: 0 15px 35px rgba(230,57,57,0.5);
-                }
-
-            footer {
-                background: #050505;
-                border-top: 4px solid var(--red);
+            .main-content {
+                padding: 30px;
+                min-height: 100vh;
             }
     </style>
 </head>
 <body>
+
+    <!-- Twój oryginalny navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
         <div class="container">
             <a class="navbar-brand" href="/"><i class="fas fa-dumbbell"></i> Szczypka Elite</a>
@@ -94,13 +72,32 @@
         </div>
     </nav>
 
-    <main>
-        @RenderBody()
-    </main>
+    <div class="container-fluid" style="margin-top: 90px;">
+        <div class="row">
+            
+            <!-- BOCZNY PANEL -->
+            <div class="col-md-2 sidebar">
+                <h5 class="px-3 mb-4 text-center text-danger">PORTAL</h5>
+                <ul class="nav flex-column">
+                    <li class="nav-item"><a class="nav-link" href="/Pracownik"><i class="fas fa-users"></i> Pracownicy</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/Projekt"><i class="fas fa-folder"></i> Projekty</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/Klient"><i class="fas fa-handshake"></i> Klienci</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/Zadanie"><i class="fas fa-tasks"></i> Zadania</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/Urlop"><i class="fas fa-calendar-alt"></i> Urlopy</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/Dzial"><i class="fas fa-sitemap"></i> Działy</a></li>
+                </ul>
+            </div>
+
+            <!-- Treść główna -->
+            <div class="col-md-10 main-content">
+                @RenderBody()
+            </div>
+        </div>
+    </div>
 
     <footer class="py-5 text-center text-light">
         <div class="container">
-            <p class="mb-0">&copy; 2026 Forge Fitness • Siła • Determinacja • Wyniki</p>
+            <p class="mb-0">&copy; 2026 Szczypka Elite • Siła • Determinacja • Wyniki</p>
         </div>
     </footer>
 
